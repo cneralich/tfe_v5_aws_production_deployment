@@ -3,9 +3,8 @@ This Repo can be used to deploy Terraform Enterprise (v5) into your AWS environm
 ## Modules Used
 
 - [Customized AWS Bootstrap Module](https://github.com/cneralich/private-terraform-enterprise/tree/master/examples/bootstrap-aws) 
-- [Customized AWS External Services](https://github.com/cneralich/terraform-aws-terraform-enterprise)
-- [Customized TFE AWS Module](https://github.com/cneralich/terraform_v5_aws_external_services)
-
+- [Customized AWS External Services](https://github.com/cneralich/terraform_v5_aws_external_services)
+- [Customized TFE AWS Module](https://github.com/cneralich/terraform-aws-terraform-enterprise)
 
 ## Pre-Requisites
 
